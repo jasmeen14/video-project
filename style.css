@@ -70,3 +70,9 @@ h1{
     z-index: -999;
     visibility: hidden;
 }
+header{
+    min-height: 100vh;
+    position: relative;
+    display: grid;
+    place-items: center;
+}
